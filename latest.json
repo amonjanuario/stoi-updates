@@ -1,8 +1,8 @@
 {
-  "version": "4.80.0",
+  "version": "4.81.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.80.0.zip",
-  "sha256": "1cbb6a9d2a392a54fb8b4bf7c511d37e137c453ea95b6f37ecd7e552e3c8a163",
-  "notes": "Chat: espaço por cima e por baixo dos quadros",
-  "date": "2026-11-12T16:28:46.036Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.81.0.zip",
+  "sha256": "a82e85852098967fa8d612a5d573c9a04200e423e8e80db9f6133f7921c0dc3a",
+  "notes": "Atualizações: dados deste celular (modelo, Android, WebView)",
+  "date": "2026-11-12T16:38:41.794Z"
 }
