@@ -1,8 +1,8 @@
 {
-  "version": "4.83.0",
+  "version": "4.84.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.83.0.zip",
-  "sha256": "11328b8c471196489416a043a89de2b800e60286a73adbaa16c0019e75ac03e6",
-  "notes": "Contagem: aviso ao concluir com produtos por contar (ficam a 0)\nContagem: Atualizar preenche os não contados com o Sistema\nJanelas: botões um por cima do outro",
-  "date": "2026-11-12T18:29:41.287Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.84.0.zip",
+  "sha256": "f12adcd77d601f8037894844287aa099cf1b5ddaa41d8cd25a9a9619bff3beee",
+  "notes": "Contagem: + N produtos abre a lista toda dos não contados",
+  "date": "2026-11-12T18:51:03.133Z"
 }
