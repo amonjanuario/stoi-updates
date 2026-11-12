@@ -1,8 +1,8 @@
 {
-  "version": "4.84.0",
+  "version": "4.85.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.84.0.zip",
-  "sha256": "f12adcd77d601f8037894844287aa099cf1b5ddaa41d8cd25a9a9619bff3beee",
-  "notes": "Contagem: + N produtos abre a lista toda dos não contados",
-  "date": "2026-11-12T18:51:03.133Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.85.0.zip",
+  "sha256": "5246312a1b8b312360790d7ba1f82ca0740bc221179e67afa864c2bb45bd1034",
+  "notes": "Balanço: entradas depois da contagem passam ao período seguinte\nBalanço: depois de guardar mostra o período em curso",
+  "date": "2026-11-12T20:08:25.731Z"
 }
