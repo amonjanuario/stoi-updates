@@ -1,8 +1,8 @@
 {
-  "version": "4.82.0",
+  "version": "4.83.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.82.0.zip",
-  "sha256": "dfe25a09fc61f7d697f97e99d65a3b98ef03325a6067cf1266fc2edca6196969",
-  "notes": "Atualizações: ícone de copiar nos dados do celular",
-  "date": "2026-11-12T16:51:37.770Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.83.0.zip",
+  "sha256": "11328b8c471196489416a043a89de2b800e60286a73adbaa16c0019e75ac03e6",
+  "notes": "Contagem: aviso ao concluir com produtos por contar (ficam a 0)\nContagem: Atualizar preenche os não contados com o Sistema\nJanelas: botões um por cima do outro",
+  "date": "2026-11-12T18:29:41.287Z"
 }
