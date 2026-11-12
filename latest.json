@@ -1,8 +1,8 @@
 {
-  "version": "4.75.0",
+  "version": "4.76.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.75.0.zip",
-  "sha256": "a2d688643fe5489ecadb4423d367fd033956758c0060a61683224181a3aedaac",
-  "notes": "Atualizações sozinhas, sem Play Store",
-  "date": "2026-11-12T13:51:58.681Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.76.0.zip",
+  "sha256": "5edf486616507d22d9fc21ab26bca2fa1a6aa1678a8f15dadc2222c01373cd79",
+  "notes": "Chat: balões mais modernos, sem a linha\nChat: hora numa pílula na mesma linha do texto\nChat: nome da conversa maior",
+  "date": "2026-11-12T14:59:17.752Z"
 }
