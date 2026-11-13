@@ -1,8 +1,8 @@
 {
-  "version": "4.96.0",
+  "version": "4.97.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.96.0.zip",
-  "sha256": "e637ab7362bfdde183dcc411e49ac817917c1dcff7ab1b17d525621907d25630",
-  "notes": "Deslizar para fechar a conta já não atualiza a página",
-  "date": "2026-11-13T14:13:56.353Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.97.0.zip",
+  "sha256": "2034e3638658f5dae54be21a8ad1999f08544df97ee28f2f58931f3e06fd9da7",
+  "notes": "Avisos dentro do cabeçalho, à direita e centrados com o título",
+  "date": "2026-11-13T14:41:23.899Z"
 }
