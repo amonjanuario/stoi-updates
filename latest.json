@@ -1,8 +1,8 @@
 {
-  "version": "4.99.0",
+  "version": "4.100.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.99.0.zip",
-  "sha256": "23480b11cca294ea67cdbaa083bf937adc4fe18111a05ff0e186022e40210332",
-  "notes": "Toque em Hoje ou Recibos nas Vendas para ver as vendas de hoje\nGráfico por hora: toque numa barra para ver os recibos dessa hora",
-  "date": "2026-11-13T17:11:08.454Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.100.0.zip",
+  "sha256": "6d4643b54e1eb5c14274f05bbd1a0e8eaab02c9debf48f0a2dc92b60f7d54373",
+  "notes": "Na Loja: deslize uma linha para Visto ou Arquivar\nArquivar: 1 dia, 1 semana ou Outro, na própria linha",
+  "date": "2026-11-13T18:16:05.122Z"
 }
