@@ -1,8 +1,8 @@
 {
-  "version": "4.86.0",
+  "version": "4.87.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.86.0.zip",
-  "sha256": "1ddcc6ea9c18ac7b80c1162fcc5da97d6d52123feecf56030f8da77b36c90042",
-  "notes": "Balanço: toque num produto das Entradas para apagar ou marcar como caixa aberta\nLâminas de caixas abertas já não aparecem como stock sem data",
-  "date": "2026-11-13T03:00:39.930Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.87.0.zip",
+  "sha256": "9ad6f6f39221ea0afc0d2320c5f349a692b75253ec6753557275aa67c410294f",
+  "notes": "Puxar para baixo atualiza as contas\nAs contas atualizam sozinhas ao fechar uma janela onde mudou algo",
+  "date": "2026-11-13T03:40:49.461Z"
 }
