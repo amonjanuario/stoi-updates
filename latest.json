@@ -1,8 +1,8 @@
 {
-  "version": "4.88.0",
+  "version": "4.89.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.88.0.zip",
-  "sha256": "9e6ea4af0ee8fe6bb09395a6c55e62f7a6e521e78d99b2bce496f70e1bc2dd12",
-  "notes": "Balanço: Procurar entradas fora do período e Incluir\nBalanço: Tirar uma entrada deste período",
-  "date": "2026-11-13T04:21:07.819Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.89.0.zip",
+  "sha256": "52e19d5e8b1c957dc0ec980a755585c58fec71edbeeb637ce4b321904c2b2d05",
+  "notes": "Exportar: Excel, Foto e PDF ficam guardados em Documentos/Stoi\nStock sem data: tirar já não deixa o stock negativo",
+  "date": "2026-11-13T07:31:56.201Z"
 }
