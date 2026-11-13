@@ -1,8 +1,8 @@
 {
-  "version": "4.93.0",
+  "version": "4.95.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.93.0.zip",
-  "sha256": "76e6dee1372b7d550dc7021bc63d29b763c4a4d1a64d0c1bbaebc9b3dd14f301",
-  "notes": "Chat: Info do grupo (foto grande, nome, ícone, membros e admins)\nFunções: Vendedor principal, Vendedor, Gestor, Fornecedor e Personalizar\nNova permissão: Editar e apagar dados",
-  "date": "2026-11-13T13:27:07.330Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.95.0.zip",
+  "sha256": "f84d274349bb375e76d39a5c0857ba108d8e259c10ec9b4db3a9c802a9c20526",
+  "notes": "Funções: só Vendedor, Gestor, Fornecedor e Personalizar\nAvisos: pílula branca em cima, só para erros, atualizações e ficheiros guardados",
+  "date": "2026-11-13T13:50:32.472Z"
 }
