@@ -1,8 +1,8 @@
 {
-  "version": "4.100.0",
+  "version": "4.100.1",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.100.0.zip",
-  "sha256": "6d4643b54e1eb5c14274f05bbd1a0e8eaab02c9debf48f0a2dc92b60f7d54373",
-  "notes": "Na Loja: deslize uma linha para Visto ou Arquivar\nArquivar: 1 dia, 1 semana ou Outro, na própria linha",
-  "date": "2026-11-13T18:16:05.122Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.100.1.zip",
+  "sha256": "7d404c529300ca7da0be78f5072433a20d634fc919df164e23e87bb47b215e0f",
+  "notes": "Na Loja: caixas com os cantos redondos e a borda inteira",
+  "date": "2026-11-13T18:27:27.794Z"
 }
