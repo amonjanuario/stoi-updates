@@ -1,8 +1,8 @@
 {
-  "version": "4.98.0",
+  "version": "4.99.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.98.0.zip",
-  "sha256": "75a7253f57641f4ceef28fe2713a3bd41c35bf70690f1090e9ffce366eb44aa6",
-  "notes": "Permissões: ligar e desligar já não pisca nem volta ao topo",
-  "date": "2026-11-13T15:14:20.992Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.99.0.zip",
+  "sha256": "23480b11cca294ea67cdbaa083bf937adc4fe18111a05ff0e186022e40210332",
+  "notes": "Toque em Hoje ou Recibos nas Vendas para ver as vendas de hoje\nGráfico por hora: toque numa barra para ver os recibos dessa hora",
+  "date": "2026-11-13T17:11:08.454Z"
 }
