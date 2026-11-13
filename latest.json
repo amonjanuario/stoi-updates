@@ -1,8 +1,8 @@
 {
-  "version": "4.97.0",
+  "version": "4.98.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.97.0.zip",
-  "sha256": "2034e3638658f5dae54be21a8ad1999f08544df97ee28f2f58931f3e06fd9da7",
-  "notes": "Avisos dentro do cabeçalho, à direita e centrados com o título",
-  "date": "2026-11-13T14:41:23.899Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.98.0.zip",
+  "sha256": "75a7253f57641f4ceef28fe2713a3bd41c35bf70690f1090e9ffce366eb44aa6",
+  "notes": "Permissões: ligar e desligar já não pisca nem volta ao topo",
+  "date": "2026-11-13T15:14:20.992Z"
 }
