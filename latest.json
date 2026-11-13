@@ -1,8 +1,8 @@
 {
-  "version": "4.92.0",
+  "version": "4.93.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.92.0.zip",
-  "sha256": "8ee78c634f193ac82df02ed407712840e21606b34eb7b44032cedcca23b0bf60",
-  "notes": "Cabeçalho: espaço vazio no topo corrigido em celulares como Android 12\nTamanho do texto: Pequeno passa a ser o padrão",
-  "date": "2026-11-13T11:04:21.718Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.93.0.zip",
+  "sha256": "76e6dee1372b7d550dc7021bc63d29b763c4a4d1a64d0c1bbaebc9b3dd14f301",
+  "notes": "Chat: Info do grupo (foto grande, nome, ícone, membros e admins)\nFunções: Vendedor principal, Vendedor, Gestor, Fornecedor e Personalizar\nNova permissão: Editar e apagar dados",
+  "date": "2026-11-13T13:27:07.330Z"
 }
