@@ -1,8 +1,8 @@
 {
-  "version": "4.85.0",
+  "version": "4.86.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.85.0.zip",
-  "sha256": "5246312a1b8b312360790d7ba1f82ca0740bc221179e67afa864c2bb45bd1034",
-  "notes": "Balanço: entradas depois da contagem passam ao período seguinte\nBalanço: depois de guardar mostra o período em curso",
-  "date": "2026-11-12T20:08:25.731Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.86.0.zip",
+  "sha256": "1ddcc6ea9c18ac7b80c1162fcc5da97d6d52123feecf56030f8da77b36c90042",
+  "notes": "Balanço: toque num produto das Entradas para apagar ou marcar como caixa aberta\nLâminas de caixas abertas já não aparecem como stock sem data",
+  "date": "2026-11-13T03:00:39.930Z"
 }
