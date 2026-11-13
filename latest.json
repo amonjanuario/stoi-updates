@@ -1,8 +1,8 @@
 {
-  "version": "4.89.0",
+  "version": "4.90.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.89.0.zip",
-  "sha256": "52e19d5e8b1c957dc0ec980a755585c58fec71edbeeb637ce4b321904c2b2d05",
-  "notes": "Exportar: Excel, Foto e PDF ficam guardados em Documentos/Stoi\nStock sem data: tirar já não deixa o stock negativo",
-  "date": "2026-11-13T07:31:56.201Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.90.0.zip",
+  "sha256": "af58db9c352a82ab5f59a3b868bb7119518976e2f5d356df00826cbc4894f2a3",
+  "notes": "Stock: aviso Stock tirado duas vezes, com Desfazer\nStock sem data só aparece em produtos nunca contados",
+  "date": "2026-11-13T08:01:03.952Z"
 }
