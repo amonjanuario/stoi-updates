@@ -1,8 +1,8 @@
 {
-  "version": "4.95.0",
+  "version": "4.96.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.95.0.zip",
-  "sha256": "f84d274349bb375e76d39a5c0857ba108d8e259c10ec9b4db3a9c802a9c20526",
-  "notes": "Funções: só Vendedor, Gestor, Fornecedor e Personalizar\nAvisos: pílula branca em cima, só para erros, atualizações e ficheiros guardados",
-  "date": "2026-11-13T13:50:32.472Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.96.0.zip",
+  "sha256": "e637ab7362bfdde183dcc411e49ac817917c1dcff7ab1b17d525621907d25630",
+  "notes": "Deslizar para fechar a conta já não atualiza a página",
+  "date": "2026-11-13T14:13:56.353Z"
 }
