@@ -1,8 +1,8 @@
 {
-  "version": "4.87.0",
+  "version": "4.88.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.87.0.zip",
-  "sha256": "9ad6f6f39221ea0afc0d2320c5f349a692b75253ec6753557275aa67c410294f",
-  "notes": "Puxar para baixo atualiza as contas\nAs contas atualizam sozinhas ao fechar uma janela onde mudou algo",
-  "date": "2026-11-13T03:40:49.461Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.88.0.zip",
+  "sha256": "9e6ea4af0ee8fe6bb09395a6c55e62f7a6e521e78d99b2bce496f70e1bc2dd12",
+  "notes": "Balanço: Procurar entradas fora do período e Incluir\nBalanço: Tirar uma entrada deste período",
+  "date": "2026-11-13T04:21:07.819Z"
 }
