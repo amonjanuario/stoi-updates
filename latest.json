@@ -1,8 +1,8 @@
 {
-  "version": "4.102.0",
+  "version": "4.103.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.102.0.zip",
-  "sha256": "4836fb32960398d5490660a9d0fa0bc7e647dd0005db8d10243ea307449b39a6",
-  "notes": "Chat: ver a tabela e tirar linhas (✕) antes de Enviar no chat\nFecho: tabela com Entradas, Contado e Saídas, sem deslizar para os lados\nFecho com o fornecedor: enviar o resumo no chat\nJanelas mais limpas: sem linhas e título mais perto do topo",
-  "date": "2026-11-14T09:53:00.116Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.103.0.zip",
+  "sha256": "bd5d7794c3cefd3d4c61e78419f53885f772e48820ef9d24a6779cad9364a6eb",
+  "notes": "Fecho com o fornecedor: \"− Fiado aberto\" antes do Total\n\"Despesas pagas pelo fornecedor\" passa a \"Despesas\"",
+  "date": "2026-11-14T10:28:20.245Z"
 }
