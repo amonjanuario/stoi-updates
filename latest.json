@@ -1,8 +1,8 @@
 {
-  "version": "4.103.0",
+  "version": "4.104.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.103.0.zip",
-  "sha256": "bd5d7794c3cefd3d4c61e78419f53885f772e48820ef9d24a6779cad9364a6eb",
-  "notes": "Fecho com o fornecedor: \"− Fiado aberto\" antes do Total\n\"Despesas pagas pelo fornecedor\" passa a \"Despesas\"",
-  "date": "2026-11-14T10:28:20.245Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.104.0.zip",
+  "sha256": "489a2b36b9e58de9dd75f27111ed0241ba48b8ab17bdb39d5c86c92d4021df76",
+  "notes": "Avisos da loja passam para Na Loja, com aprovação de quem tem todas as permissões\nContagem: Importar (foto, PDF, balanço ou fecho guardado, colar lista)\nFoto e PDF precisam da APK nova (181)",
+  "date": "2026-11-14T16:51:25.334Z"
 }
