@@ -1,8 +1,8 @@
 {
-  "version": "4.101.0",
+  "version": "4.102.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.101.0.zip",
-  "sha256": "006dd8eb92defa5e711d775df03be7e8601b1c5a6213a675741002643fb32529",
-  "notes": "Chat: Anexar → Tabela com quadros prontos (Pouco stock, Acabou, Chegou hoje, Contagem, Vendas)\nEscreva / na mensagem para atalhos: /pouco, /acabou, /chegou, /contagem, /vendas, /stock",
-  "date": "2026-11-13T19:58:38.850Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.102.0.zip",
+  "sha256": "4836fb32960398d5490660a9d0fa0bc7e647dd0005db8d10243ea307449b39a6",
+  "notes": "Chat: ver a tabela e tirar linhas (✕) antes de Enviar no chat\nFecho: tabela com Entradas, Contado e Saídas, sem deslizar para os lados\nFecho com o fornecedor: enviar o resumo no chat\nJanelas mais limpas: sem linhas e título mais perto do topo",
+  "date": "2026-11-14T09:53:00.116Z"
 }
