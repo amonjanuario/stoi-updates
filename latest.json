@@ -1,8 +1,8 @@
 {
-  "version": "4.105.0",
+  "version": "4.106.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.105.0.zip",
-  "sha256": "c165efca0a598653f99b636f64f8cf85b29768ff24dae2ab3bb2e65391a51f8c",
-  "notes": "Chat: editar mensagem (1 min) e desfazer envio (30 s) ao tocar e manter na mensagem\nChat: agendar envio (tocar e manter no botão de enviar)\nCopiar texto inteligente: secções Pouco estoque / Sem estoque / Novo estoque\nNovo ícone de copiar",
-  "date": "2026-11-15T03:11:28.342Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.106.0.zip",
+  "sha256": "76c7bb202ec5647f4dbeef373d34f798d9a86d29a5edd85264b3278a7bef3520",
+  "notes": "Chat: mensagens apagadas e envios desfeitos ficam guardados; quem tem todas as permissões pode tocar em Ver",
+  "date": "2026-11-15T03:47:46.334Z"
 }
