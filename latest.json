@@ -1,8 +1,8 @@
 {
-  "version": "4.104.0",
+  "version": "4.105.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.104.0.zip",
-  "sha256": "489a2b36b9e58de9dd75f27111ed0241ba48b8ab17bdb39d5c86c92d4021df76",
-  "notes": "Avisos da loja passam para Na Loja, com aprovação de quem tem todas as permissões\nContagem: Importar (foto, PDF, balanço ou fecho guardado, colar lista)\nFoto e PDF precisam da APK nova (181)",
-  "date": "2026-11-14T16:51:25.334Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.105.0.zip",
+  "sha256": "c165efca0a598653f99b636f64f8cf85b29768ff24dae2ab3bb2e65391a51f8c",
+  "notes": "Chat: editar mensagem (1 min) e desfazer envio (30 s) ao tocar e manter na mensagem\nChat: agendar envio (tocar e manter no botão de enviar)\nCopiar texto inteligente: secções Pouco estoque / Sem estoque / Novo estoque\nNovo ícone de copiar",
+  "date": "2026-11-15T03:11:28.342Z"
 }
