@@ -1,8 +1,8 @@
 {
-  "version": "4.107.0",
+  "version": "4.108.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.107.0.zip",
-  "sha256": "b17ae26b13f93ea982b8789d3eb760045480d0158d7646d25690660e8698ee9b",
-  "notes": "Balanço: abrir uma caixa em lâminas já não conta como saída nem sobra\nBalanço: aviso quando uma entrada tem data anterior à contagem inicial (Rever e Incluir)\nEntrada com data antiga: pergunta se chegou depois da contagem",
-  "date": "2026-11-16T18:30:52.000Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.108.0.zip",
+  "sha256": "d3e3d061da4394c8e634fc0d9a0bbd015fe798b5458094ffea5d9968cc52f7f2",
+  "notes": "Contagem → Importar: juntar duas ou mais listas (fotos, PDFs, contagens guardadas ou texto)\nNa revisão: ✕ tira uma lista e ＋ Juntar outra lista",
+  "date": "2026-11-16T19:05:04.596Z"
 }
