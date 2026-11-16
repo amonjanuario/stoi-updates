@@ -1,8 +1,8 @@
 {
-  "version": "4.106.0",
+  "version": "4.107.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.106.0.zip",
-  "sha256": "76c7bb202ec5647f4dbeef373d34f798d9a86d29a5edd85264b3278a7bef3520",
-  "notes": "Chat: mensagens apagadas e envios desfeitos ficam guardados; quem tem todas as permissões pode tocar em Ver",
-  "date": "2026-11-15T03:47:46.334Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.107.0.zip",
+  "sha256": "b17ae26b13f93ea982b8789d3eb760045480d0158d7646d25690660e8698ee9b",
+  "notes": "Balanço: abrir uma caixa em lâminas já não conta como saída nem sobra\nBalanço: aviso quando uma entrada tem data anterior à contagem inicial (Rever e Incluir)\nEntrada com data antiga: pergunta se chegou depois da contagem",
+  "date": "2026-11-16T18:30:52.000Z"
 }
