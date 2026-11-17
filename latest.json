@@ -1,8 +1,8 @@
 {
-  "version": "4.110.0",
+  "version": "4.111.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.110.0.zip",
-  "sha256": "57fb47e020dfcdd49368e079a2289f8899c12c49198595823b494634efce50dd",
-  "notes": "Contagem: a 1.ª contagem vem do último balanço guardado; Contar faz a 2.ª\nSe a contagem do último balanço foi apagada: Puxar do balanço",
-  "date": "2026-11-17T14:24:21.817Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.111.0.zip",
+  "sha256": "f4d594848c796683b34296879f8c4a51355a20581e21adc0d8b726105a4796dc",
+  "notes": "Modo escuro: página preta, textos brancos, quadros e tabelas mais escuros (as cores mantêm-se)\nMensagens: 'Na Loja' passa a 'Notificações'",
+  "date": "2026-11-17T14:45:32.793Z"
 }
