@@ -1,8 +1,8 @@
 {
-  "version": "4.108.3",
+  "version": "4.109.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.108.3.zip",
-  "sha256": "477465ac45f9f575b596d49220ad67300a4cabb4039282e9867b392173ebfdc7",
-  "notes": "Balanço: produtos por contar ficam fora das Saídas (não contam como 0)\nImportar fotos/PDF: garrafas não viram caixas, '—' fica por contar, só lê a coluna Contado; abrir caixas começa desmarcado",
-  "date": "2026-11-17T08:54:16.779Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.109.0.zip",
+  "sha256": "98bc4726fb4bab7daa4392d41eeca1136d95704b511a1f7f84ffcce53210f793",
+  "notes": "Backup ao guardar balanço, fecho ou contagem (nuvem, celular e ficheiro)\nBotões Backup e Restaurar: mostra o que muda produto a produto antes de aplicar",
+  "date": "2026-11-17T09:40:29.924Z"
 }
