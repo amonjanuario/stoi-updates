@@ -1,8 +1,8 @@
 {
-  "version": "4.108.1",
+  "version": "4.108.2",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.108.1.zip",
-  "sha256": "42218c83a7e140f7561c94113e48bf49e1d4908a1d9cedf02b76dd089fbb9c55",
-  "notes": "Importar: o número do nome (ex.: Label 9) já não é lido como quantidade\nImportar: sem cabeçalhos, totais, coluna de categoria nem linhas sem número\nJuntar listas: o mesmo produto em duas listas fica com o valor da última (não soma)",
-  "date": "2026-11-16T19:11:32.644Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.108.2.zip",
+  "sha256": "402675e28a93f483cfac7b6c416e6fd8234878cf9c4527b1eade1e061237b583",
+  "notes": "Janelas: já não fica o fundo escuro depois de fechar\nBalanço: o aviso de entradas com data anterior não aparece em contagens registadas com data passada",
+  "date": "2026-11-17T08:27:00.624Z"
 }
