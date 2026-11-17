@@ -1,8 +1,8 @@
 {
-  "version": "4.108.0",
+  "version": "4.108.1",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.108.0.zip",
-  "sha256": "d3e3d061da4394c8e634fc0d9a0bbd015fe798b5458094ffea5d9968cc52f7f2",
-  "notes": "Contagem → Importar: juntar duas ou mais listas (fotos, PDFs, contagens guardadas ou texto)\nNa revisão: ✕ tira uma lista e ＋ Juntar outra lista",
-  "date": "2026-11-16T19:05:04.596Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.108.1.zip",
+  "sha256": "42218c83a7e140f7561c94113e48bf49e1d4908a1d9cedf02b76dd089fbb9c55",
+  "notes": "Importar: o número do nome (ex.: Label 9) já não é lido como quantidade\nImportar: sem cabeçalhos, totais, coluna de categoria nem linhas sem número\nJuntar listas: o mesmo produto em duas listas fica com o valor da última (não soma)",
+  "date": "2026-11-16T19:11:32.644Z"
 }
