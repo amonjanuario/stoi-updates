@@ -1,8 +1,8 @@
 {
-  "version": "4.109.0",
+  "version": "4.109.1",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.109.0.zip",
-  "sha256": "98bc4726fb4bab7daa4392d41eeca1136d95704b511a1f7f84ffcce53210f793",
-  "notes": "Backup ao guardar balanço, fecho ou contagem (nuvem, celular e ficheiro)\nBotões Backup e Restaurar: mostra o que muda produto a produto antes de aplicar",
-  "date": "2026-11-17T09:40:29.924Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.109.1.zip",
+  "sha256": "555106dd9c2ddf8c1189e138454298500d75083a99ed68a2c248b6df4932a62d",
+  "notes": "Restaurar: o balanço guardado refaz as contagens mesmo se foram apagadas\nPasso 'Ver o balanço' abre com balanços guardados (mesmo sem contagens)",
+  "date": "2026-11-17T09:56:36.332Z"
 }
