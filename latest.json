@@ -1,8 +1,8 @@
 {
-  "version": "4.109.1",
+  "version": "4.110.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.109.1.zip",
-  "sha256": "555106dd9c2ddf8c1189e138454298500d75083a99ed68a2c248b6df4932a62d",
-  "notes": "Restaurar: o balanço guardado refaz as contagens mesmo se foram apagadas\nPasso 'Ver o balanço' abre com balanços guardados (mesmo sem contagens)",
-  "date": "2026-11-17T09:56:36.332Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.110.0.zip",
+  "sha256": "57fb47e020dfcdd49368e079a2289f8899c12c49198595823b494634efce50dd",
+  "notes": "Contagem: a 1.ª contagem vem do último balanço guardado; Contar faz a 2.ª\nSe a contagem do último balanço foi apagada: Puxar do balanço",
+  "date": "2026-11-17T14:24:21.817Z"
 }
