@@ -1,8 +1,8 @@
 {
-  "version": "4.112.0",
+  "version": "4.112.1",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.112.0.zip",
-  "sha256": "b9a7b5188bf566e5aff3b624e45bdd98ff001b827edf381e003952f213d09339",
-  "notes": "Notificações: lista por dia com avisos por aprovar no topo e filtros (Stock, Fecho, Equipa)\nDatas no idioma da app",
-  "date": "2026-11-17T15:02:35.441Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.112.1.zip",
+  "sha256": "a2046ae7226f9946f90674ea5ec2aa3bd488f88c17f7ae08ad42e12dc2dd968a",
+  "notes": "Passo 1: botão Puxar ao lado de Contar quando a contagem do último balanço foi apagada",
+  "date": "2026-11-18T02:56:51.999Z"
 }
