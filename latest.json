@@ -1,8 +1,8 @@
 {
-  "version": "4.112.2",
+  "version": "4.113.0",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.112.2.zip",
-  "sha256": "ec5f0c3ccbe10249295745de81b7e789749e84f370c7e5448569b4da41c6c26d",
-  "notes": "Puxar usa as contagens do balanço guardado; contagens restauradas voltam também na nuvem\nAviso de atualização: seta a descarregar, ✓ só quando acaba",
-  "date": "2026-11-18T03:19:46.051Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.113.0.zip",
+  "sha256": "c476cd25445bc9ac2fdfb45d13959172f5c9818ff4271b29dd58048502bb11a0",
+  "notes": "Produtos parados: resumo e tabela com stock, valor e dias sem vender\nAviso App atualizada com o círculo verde claro",
+  "date": "2026-11-18T04:15:15.364Z"
 }
