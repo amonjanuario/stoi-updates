@@ -1,8 +1,8 @@
 {
-  "version": "4.112.1",
+  "version": "4.112.2",
   "minApk": 179,
-  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.112.1.zip",
-  "sha256": "a2046ae7226f9946f90674ea5ec2aa3bd488f88c17f7ae08ad42e12dc2dd968a",
-  "notes": "Passo 1: botão Puxar ao lado de Contar quando a contagem do último balanço foi apagada",
-  "date": "2026-11-18T02:56:51.999Z"
+  "url": "https://raw.githubusercontent.com/amonjanuario/stoi-updates/main/bundles/4.112.2.zip",
+  "sha256": "ec5f0c3ccbe10249295745de81b7e789749e84f370c7e5448569b4da41c6c26d",
+  "notes": "Puxar usa as contagens do balanço guardado; contagens restauradas voltam também na nuvem\nAviso de atualização: seta a descarregar, ✓ só quando acaba",
+  "date": "2026-11-18T03:19:46.051Z"
 }
